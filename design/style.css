@@ -147,3 +147,13 @@ a:hover{
 .btn-2:hover{
     color:hsl(223, 47%, 23%);;
 }
+
+@media (max-width:550px) {
+    .all{
+        width:350px;
+        height:580px;
+    }
+
+    .btn-2{
+        margin-bottom:20px;
+    }
